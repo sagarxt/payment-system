@@ -20,7 +20,7 @@ Here, it asks for a registered email and password. If the email or password is i
 1. One is the nav-bar, which displays the registered customer's name and a Logout option to log out the current user and redirect to the home page.
 2. Another is the sidebar, where we have all the options like View Profile, My Orders, All Billers, All Products, and Registered Billers.
 3. The third is the content area, which displays all the available products on the platform by different billers. Each product shows the product details (name, description, category, and seller) and the price of the product, along with a Buy Now button to purchase that product. If you click on Buy Now, an order will be placed for that product, and you will be redirected to the My Orders section.
-<img src="https://i.postimg.cc/7hQ26bVz/c-dashboard.png" alt="Customer Dashboard Page">
+<img src="https://i.postimg.cc/d3mkY2st/c-dashboard.png" alt="Customer Dashboard Page">
 
 **View Profile :** In the profile, the customer will see their name and email address. The customer has two options: one is for `Update Profile` to update their profile, and the other is `Change Password` to change their password by providing the existing password.
 <img src="https://i.postimg.cc/y6f9nrHN/c-profile.png" alt="Customer Profile Page">
